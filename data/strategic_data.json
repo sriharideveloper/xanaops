@@ -1,0 +1,190 @@
+{
+    "version": "4.0",
+    "description": "XANA Strategic Intelligence Data — Maritime chokepoints, shipping lanes, and threat corridors",
+    "major_airports": [
+        {
+            "name": "JFK International",
+            "lat": 40.641,
+            "lon": -73.778,
+            "iata": "JFK"
+        },
+        {
+            "name": "London Heathrow",
+            "lat": 51.470,
+            "lon": -0.454,
+            "iata": "LHR"
+        },
+        {
+            "name": "Dubai International",
+            "lat": 25.252,
+            "lon": 55.364,
+            "iata": "DXB"
+        },
+        {
+            "name": "Singapore Changi",
+            "lat": 1.350,
+            "lon": 103.994,
+            "iata": "SIN"
+        },
+        {
+            "name": "Tokyo Haneda",
+            "lat": 35.553,
+            "lon": 139.781,
+            "iata": "HND"
+        },
+        {
+            "name": "Hong Kong",
+            "lat": 22.308,
+            "lon": 113.918,
+            "iata": "HKG"
+        },
+        {
+            "name": "Los Angeles LAX",
+            "lat": 33.942,
+            "lon": -118.408,
+            "iata": "LAX"
+        },
+        {
+            "name": "Beijing Capital",
+            "lat": 40.080,
+            "lon": 116.584,
+            "iata": "PEK"
+        },
+        {
+            "name": "Frankfurt",
+            "lat": 50.033,
+            "lon": 8.571,
+            "iata": "FRA"
+        },
+        {
+            "name": "Sydney Kingsford Smith",
+            "lat": -33.946,
+            "lon": 151.177,
+            "iata": "SYD"
+        }
+    ],
+    "major_ports": [
+        {
+            "name": "Port of Shanghai",
+            "lat": 31.230,
+            "lon": 121.474,
+            "country": "China"
+        },
+        {
+            "name": "Port of Singapore",
+            "lat": 1.264,
+            "lon": 103.822,
+            "country": "Singapore"
+        },
+        {
+            "name": "Port of Rotterdam",
+            "lat": 51.905,
+            "lon": 4.480,
+            "country": "Netherlands"
+        },
+        {
+            "name": "Port of Antwerp",
+            "lat": 51.237,
+            "lon": 4.377,
+            "country": "Belgium"
+        },
+        {
+            "name": "Port of Busan",
+            "lat": 35.107,
+            "lon": 129.035,
+            "country": "South Korea"
+        },
+        {
+            "name": "Port of Hong Kong",
+            "lat": 22.286,
+            "lon": 114.158,
+            "country": "China"
+        },
+        {
+            "name": "Port of Los Angeles",
+            "lat": 33.740,
+            "lon": -118.272,
+            "country": "USA"
+        },
+        {
+            "name": "Port of Hamburg",
+            "lat": 53.531,
+            "lon": 9.938,
+            "country": "Germany"
+        },
+        {
+            "name": "Jebel Ali, Dubai",
+            "lat": 25.014,
+            "lon": 55.077,
+            "country": "UAE"
+        },
+        {
+            "name": "Port of Tianjin",
+            "lat": 38.974,
+            "lon": 117.728,
+            "country": "China"
+        }
+    ],
+    "military_bases_approximate": [
+        {
+            "name": "Diego Garcia",
+            "lat": -7.316,
+            "lon": 72.411,
+            "type": "US Naval"
+        },
+        {
+            "name": "Djibouti (Camp Lemonnier)",
+            "lat": 11.547,
+            "lon": 43.149,
+            "type": "US Military"
+        },
+        {
+            "name": "Yokosuka Naval Base",
+            "lat": 35.283,
+            "lon": 139.651,
+            "type": "US Naval"
+        },
+        {
+            "name": "Ramstein Air Base",
+            "lat": 49.436,
+            "lon": 7.600,
+            "type": "US Air Force"
+        },
+        {
+            "name": "Pearl Harbor",
+            "lat": 21.354,
+            "lon": -157.954,
+            "type": "US Naval"
+        },
+        {
+            "name": "NSA Bahrain",
+            "lat": 26.211,
+            "lon": 50.552,
+            "type": "US Naval"
+        },
+        {
+            "name": "Guam Naval Base",
+            "lat": 13.444,
+            "lon": 144.793,
+            "type": "US Naval"
+        },
+        {
+            "name": "Hainan Naval Base",
+            "lat": 18.225,
+            "lon": 109.484,
+            "type": "PLA Naval"
+        },
+        {
+            "name": "Tartus Naval Facility",
+            "lat": 34.879,
+            "lon": 35.886,
+            "type": "Russian Naval"
+        },
+        {
+            "name": "Sevastopol",
+            "lat": 44.616,
+            "lon": 33.525,
+            "type": "Russian Naval"
+        }
+    ]
+}

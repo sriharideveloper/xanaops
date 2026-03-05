@@ -1,0 +1,56 @@
+# ── Virtual environments ─────────────────────────────────────
+xana_env/
+venv/
+.venv/
+env/
+
+# ── Personal memory databases (never commit your embeddings) ──
+xana_memory_db/
+xana_paired_db/
+xana_db/
+*.db
+*.sqlite3
+chroma/
+
+# ── Personal conversation data ───────────────────────────────
+conversations-*.json
+*.json:Zone.Identifier
+xana_chat_export_*.json
+master_chats.csv
+paired_chats.csv
+my_*.csv
+my_*.json
+
+# ── Python cache ─────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ── Streamlit secrets ────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Environment / secrets ────────────────────────────────────
+.env
+.env.*
+*.env
+
+# ── OS files ─────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*Zone.Identifier
+
+# ── IDE ──────────────────────────────────────────────────────
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# ── Logs ─────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Build / dist ─────────────────────────────────────────────
+dist/
+build/
+*.egg-info/
